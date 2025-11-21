@@ -12,7 +12,7 @@ with the resources I have
 Datasets or Image and Video models:- Faceforensic++, ClebDF, Wild-Deepfake
 Dataset used for Audio :- the-fake-or-real-dataset 
 
-all these datasets are opensorce and can be used by anyone 
+all these datasets are open source and can be used by anyone 
 
 links: 
 
